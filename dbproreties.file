@@ -1,0 +1,5 @@
+test_string:Obtaining data from git/guru
+db_uname:system
+db_pword:password
+db_datasourceurl:jdbc:oracle:thin:@localhost:1521:xe
+db_driverClassName:oracle.jdbc.driver.OracleDriver
